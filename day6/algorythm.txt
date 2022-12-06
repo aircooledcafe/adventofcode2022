@@ -1,0 +1,36 @@
+Algorythm:
+
+def global character count
+def data set
+
+get fourteen characters from data set
+
+compare each chracter in character set agains all others
+  if matches get next set of 14 chacters
+
+  if no matches return character count + 14
+
+
+
+
+def compare(data):
+  if data[0] != data[1] and data[0] != data[2] and data[0] != data[3] and data[0] != data[4] and data[0] != data[5] and data[0] != data[6] and data[0] != data[7] and data[0] != data[8] and data[0] != data[9] and data[0] != data[10]  and data[0] != data[11] and data[0] != data[12]  and data[0] != data[13]:
+    if data[1] != data[2] and data[1] != data[3] and data[1] != data[4] and data[1] != data[5] and data[1] != data[6] and data[1] != data[7] and data[1] != data[8] and data[1] != data[9] and data[1] != data[10]  and data[1] != data[11] and data[1] != data[12]  and data[1] != data[13]:
+      if data[2] != data[3] and data[2] != data[4] and data[2] != data[5] and data[2] != data[6] and data[2] != data[7] and data[2] != data[8] and data[2] != data[9] and data[2] != data[10]  and data[2] != data[11] and data[2] != data[12]  and data[2] != data[13]:
+        if data[3] != data[4] and data[3] != data[5] and data[3] != data[6] and data[3] != data[7] and data[3] != data[8] and data[3] != data[9] and data[3] != data[10]  and data[3] != data[11] and data[3] != data[12]  and data[3] != data[13]:
+
+
+data = data + input[global_count]
+  data = data + input[global_count + 1]
+  data = data + input[global_count + 2]
+  data = data + input[global_count + 3]
+  data = data + input[global_count + 4]
+  data = data + input[global_count + 5]
+  data = data + input[global_count + 6]
+  data = data + input[global_count + 7]
+  data = data + input[global_count + 8]
+  data = data + input[global_count + 9]
+  data = data + input[global_count + 10]
+  data = data + input[global_count + 11]
+  data = data + input[global_count + 12]
+  data = data + input[global_count + 13]
